@@ -14,8 +14,12 @@
 
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
-    Turbo \
+    Coolapk \
     ForceStop \
     Lawnchair \
-    OpenPayShortcut \
-    via
+    OnePlusNote \
+    OnePlusWeather \
+    QQBrowser \
+    QQPinyin \
+    RootExplorer \
+    Turbo 
