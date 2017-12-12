@@ -17,6 +17,7 @@ PRODUCT_PACKAGES += \
     Coolapk \
     ForceStop \
     Lawnchair \
+    MTExplorer \
     OnePlusNote \
     OnePlusWeather \
     QQBrowser \
