@@ -2,7 +2,7 @@
 $(call inherit-product, vendor/liquid/config/common_full.mk)
 
 # Required packages
-#PRODUCT_PACKAGES += \
-#    LatinIME
+PRODUCT_PACKAGES += \
+    LatinIME
 
 $(call inherit-product, vendor/liquid/config/telephony.mk)

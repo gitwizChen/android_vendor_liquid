@@ -109,6 +109,7 @@ PRODUCT_PACKAGES += \
 
 # Required packages
 PRODUCT_PACKAGES += \
+	Launcher3 \
     PhoneLocationProvider \
     LiquidLounge
 
