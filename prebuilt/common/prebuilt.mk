@@ -16,9 +16,8 @@
 PRODUCT_PACKAGES += \
     Coolapk \
     ForceStop \
-    MTExplorer \
     OnePlusNote \
     OnePlusWeather \
-    QQPinyin \
     RootExplorer \
+	TitaniumBackup \
     Turbo
